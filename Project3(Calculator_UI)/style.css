@@ -1,9 +1,9 @@
 body{
-    background-color:rgb(243, 235, 237);
+    background-color:rgb(245, 242, 193);
 }
 table{
     margin:110px 50px 30px 500px;
-    background-color: rgb(47, 70, 47);
+    background-color: rgb(245, 238, 113);
     
 }
 table,td {
@@ -23,9 +23,10 @@ padding: 20px;
 margin: auto;
 }
 button{
-    font-size:20px;
-    height:40px;
-    width:40px;
+    font-size:15px;
+    height:55px;
+    width:55px;
+    background-color:rgb(245, 242, 193);
 }
 
 
